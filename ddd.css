@@ -1,0 +1,37 @@
+.top-pad{
+    padding-top: 100px;
+}
+
+.aa:hover{
+    border-block: 0.5px solid rgb(255, 255, 255);
+}
+
+.card-color{
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.cust-color{
+    background-color: rgb(251, 251, 251);
+}
+
+.col1{
+    background-color: rgb(175, 175, 236);
+}
+
+.col2{
+    background-color: rgb(220, 220, 139);
+}
+
+.heading{
+    height: 100px; 
+    font-size: 90px;
+    /* color: rgb(255, 153, 0); */
+    font-family: 'Caveat', cursive;
+}
+
+
+.sub-heading{
+    height: 120px;
+    color: rgb(255, 153, 0);
+    font-family: 'Caveat', cursive;
+}
